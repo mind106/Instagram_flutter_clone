@@ -15,11 +15,11 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - EVERYTHING REAL TIME
 - Sign Out
 
-![image info](/Users/minhmac/Documents/screenshot.png)
+![IMAGE_DESCRIPTION](/Users/minhmac/Documents/screenshot.png)
 
 ## Installation
 
-After cloning this repository, migrate to `bash instagram-flutter-clone` folder. Then, follow the following steps:
+After cloning this repository, migrate to `instagram-flutter-clone` folder. Then, follow the following steps:
 
 - Create Firebase Project
 - Enable Authentication
@@ -51,4 +51,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at [pig](mind.100699@gmail.com)
+If you have any feedback, please reach out to me at [mind.100699@gmail.com]
