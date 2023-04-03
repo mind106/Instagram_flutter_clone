@@ -15,7 +15,7 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - EVERYTHING REAL TIME
 - Sign Out
 
-![IMAGE_DESCRIPTION](/Users/minhmac/Documents/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/63234521/229442548-61dbe0b5-fa63-43e0-98ac-69ca984c68f0.png)
 
 ## Installation
 
@@ -51,4 +51,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at [mind.100699@gmail.com]
+If you have any feedback, please reach out to me at mind.100699@gmail.com
