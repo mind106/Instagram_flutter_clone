@@ -23,8 +23,7 @@ After cloning this repository, migrate to instagram-flutter-clone folder. Then, 
 - Enable Authentication
 - Make Firestore Rules
 - Create Android, iOS & Web Apps
-- Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work as I deleted my project) Then run the following commands to run your app:
-
+- Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work as I deleted my project). Then run the following commands to run your app:
   flutter pub get
   open -a simulator (to get iOS Simulator)
   flutter run
