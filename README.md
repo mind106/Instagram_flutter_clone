@@ -20,7 +20,7 @@ https://github.com/mind106/Instagram_flutter_clone/assets/63234521/c04616d1-4ca6
 
 
 ## Installation
-After cloning this repository, migrate to  'instagram-flutter-clone'  folder. Then, follow the following steps:
+After cloning this repository, migrate to `instagram-flutter-clone`  folder. Then, follow the following steps:
 
 Create Firebase Project
 Enable Authentication
@@ -29,15 +29,12 @@ Create Android, iOS & Web Apps
 Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work as I deleted my project) Then run the following commands to run your app:
 
 
-'''
-flutter pub get
-   
-open -a simulator (to get iOS Simulator)
-   
-flutter run
-   
-flutter run -d chrome --web-renderer html (to see the best output)
-'''
+```
+ flutter pub get
+ open -a simulator (to get iOS Simulator)
+ flutter run
+ flutter run -d chrome --web-renderer html (to see the best output) 
+```
 
 ## Tech Used
 Server: Firebase Auth, Firebase Storage, Firebase Firestore
