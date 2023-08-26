@@ -28,14 +28,7 @@ Make Firestore Rules
 Create Android, iOS & Web Apps
 Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work as I deleted my project) Then run the following commands to run your app:
 
-<div
-	data-frame-src="https://i-am-an-embed/"
-	data-frame-attribute-sandbox="allow-scripts allow-same-origin"
-></div>
 
-<!-- This creates... -->
-<iframe src="https://i-am-an-embed/" sandbox="allow-scripts allow-same-origin">
-</iframe>
 
   flutter pub get
   
